@@ -17,4 +17,4 @@ Here are some ideas to get you started:
  <p>🌱 I’m currently learning JavaScript.</p>
  <p>🔭 I’m currently working on my study of senior school.</p>
  <p>✨ I'll graduate this June!</p>
-[![gugugu](https://github-readme-stats.vercel.app/api?username=Logic-Accepted&show_icons=true&locale=cn&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+__
