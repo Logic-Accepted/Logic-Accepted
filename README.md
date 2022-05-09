@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there is L_Ac! 👋
 
 <!--
 **Logic-Accepted/Logic-Accepted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 🌱 I’m currently learning JavaScript.
+ 🔭 I’m currently working on my study of senior school.
+ ✨ I'll graduate this June!
