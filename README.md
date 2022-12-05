@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <p>🌱 I’m currently learning JavaScript.</p>
- <p>🔭 I’m currently working on my study of senior school.</p>
- <p>✨ I'll graduate this June!</p>
+ <p>🔭 I’m currently working on my study of high school.</p>
 __
