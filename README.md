@@ -1,4 +1,4 @@
-<h1>###Hi there comes L_Ac! 👋</h1>
+<h1>Hi there comes L_Ac! 👋</h1>
 
 <!--
 **Logic-Accepted/Logic-Accepted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
